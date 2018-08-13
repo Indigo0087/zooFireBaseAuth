@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "395102061994",
+    "firebase_url": "https://zoo-firebase-auth.firebaseio.com",
+    "project_id": "zoo-firebase-auth",
+    "storage_bucket": "zoo-firebase-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395102061994:android:f429c9fc6b193794",
+        "android_client_info": {
+          "package_name": "kz.kna_co.zoo_firebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395102061994-vhrojnahdf2h40340eoaomdgi6enc7mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kz.kna_co.zoo_firebaseauth",
+            "certificate_hash": "964c7ef931fd5a1f88b7db4f0889ef30ff3aa588"
+          }
+        },
+        {
+          "client_id": "395102061994-hc0ergrpq9el9a144efp81llb6sdhksg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJgZzaf4zktatIL567X0d7jXSDujy7pss"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395102061994-hc0ergrpq9el9a144efp81llb6sdhksg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
